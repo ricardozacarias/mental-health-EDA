@@ -1,6 +1,6 @@
-**Tech Interview | EDA**
+# Mental Health Survey - Exploratory Data Analysis
 
-Pull request when you want to submit. Submissions after Friday 12pm will be considered out of term. 
+This repo contains a mini project of exploratory data analysis (EDA) base on a survey about mental health in tech found [here](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
 
-Remember to include the script and the report. Additional material is welcomed. 
+A report including figures and findings can be found [here](https://github.com/ricardozacarias/mental-health-EDA/blob/master/eda-report.pdf).
 
